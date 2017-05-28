@@ -1,0 +1,5 @@
+﻿  Graph2.cpp
+c:\users\ag\desktop\visual projects\shortestpath_dijkstra\shortestpath_dijkstra\graph2.cpp(8): warning C4005: 'INFINITY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(78): note: see previous definition of 'INFINITY'
+  ShortestPath_Dijkstra.vcxproj -> C:\Users\AG\Desktop\Visual Projects\ShortestPath_Dijkstra\Debug\ShortestPath_Dijkstra.exe
+  ShortestPath_Dijkstra.vcxproj -> C:\Users\AG\Desktop\Visual Projects\ShortestPath_Dijkstra\Debug\ShortestPath_Dijkstra.pdb (Partial PDB)

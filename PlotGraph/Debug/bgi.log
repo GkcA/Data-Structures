@@ -1,0 +1,6 @@
+﻿  From_File_to_Graphics.cpp
+c:\users\ag\desktop\plotgraph\from_file_to_graphics.cpp(59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\ag\desktop\plotgraph\from_file_to_graphics.cpp(63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\ag\desktop\plotgraph\from_file_to_graphics.cpp(68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  bgi.vcxproj -> C:\Users\AG\Desktop\PlotGraph\Debug\bgi.exe
+  bgi.vcxproj -> C:\Users\AG\Desktop\PlotGraph\Debug\bgi.pdb (Full PDB)

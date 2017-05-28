@@ -1,0 +1,4 @@
+﻿  PostFixSource.cpp
+c:\users\ag\desktop\visual projects\postfix\postfix\postfixsource.cpp(87): warning C4018: '<': signed/unsigned mismatch
+  PostFix.vcxproj -> C:\Users\AG\Desktop\Visual Projects\PostFix\Debug\PostFix.exe
+  PostFix.vcxproj -> C:\Users\AG\Desktop\Visual Projects\PostFix\Debug\PostFix.pdb (Partial PDB)

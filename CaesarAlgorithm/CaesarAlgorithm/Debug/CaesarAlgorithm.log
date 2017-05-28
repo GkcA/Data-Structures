@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\ag\desktop\caesaralgorithm\caesaralgorithm\source.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\ag\desktop\caesaralgorithm\caesaralgorithm\source.cpp(29): warning C4018: '<': signed/unsigned mismatch
+  CaesarAlgorithm.vcxproj -> C:\Users\AG\Desktop\CaesarAlgorithm\Debug\CaesarAlgorithm.exe
+  CaesarAlgorithm.vcxproj -> C:\Users\AG\Desktop\CaesarAlgorithm\Debug\CaesarAlgorithm.pdb (Partial PDB)
